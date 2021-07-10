@@ -1,3 +1,4 @@
 # awesome-go
 awesome-go include go packages during development.
-* [go-restful](https://github.com/emicklei/go-restful)
+* [emickle/go-restful](https://github.com/emicklei/go-restful)
+* [json-iterator/go](https://github.com/json-iterator/go)
